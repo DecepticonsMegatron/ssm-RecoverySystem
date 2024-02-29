@@ -1,0 +1,8 @@
+com\example\mtl\beans\OrderItem.class
+com\example\mtl\beans\Goods.class
+com\example\mtl\beans\Brand.class
+com\example\mtl\beans\Order.class
+com\example\mtl\beans\BasicInfo.class
+com\example\mtl\beans\User.class
+com\example\mtl\beans\InfoDetail.class
+com\example\mtl\beans\Category.class

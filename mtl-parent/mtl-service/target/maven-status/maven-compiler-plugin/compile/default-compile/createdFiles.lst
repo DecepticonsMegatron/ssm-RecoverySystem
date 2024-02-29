@@ -1,0 +1,14 @@
+com\example\mtl\service\impl\GoodsServiceImpl.class
+com\example\mtl\service\impl\BrandServiceImpl.class
+com\example\mtl\service\BasicInfoService.class
+com\example\mtl\service\CategoryService.class
+com\example\mtl\service\GoodsService.class
+com\example\mtl\service\impl\UserServiceImpl.class
+com\example\mtl\service\impl\OrderServiceImpl.class
+com\example\mtl\service\BrandService.class
+com\example\mtl\service\PriceCountService.class
+com\example\mtl\service\impl\PriceCountServiceImpl.class
+com\example\mtl\service\OrderService.class
+com\example\mtl\service\impl\CategoryServiceImpl.class
+com\example\mtl\service\UserService.class
+com\example\mtl\service\impl\BasicInfoServiceImpl.class

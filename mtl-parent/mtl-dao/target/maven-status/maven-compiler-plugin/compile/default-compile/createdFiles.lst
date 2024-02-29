@@ -1,0 +1,8 @@
+com\example\mtl\dao\CategoryDAO.class
+com\example\mtl\dao\BrandDAO.class
+com\example\mtl\dao\OrderItemDAO.class
+com\example\mtl\dao\BasicInfoDAO.class
+com\example\mtl\dao\OrderDAO.class
+com\example\mtl\dao\UserDAO.class
+com\example\mtl\dao\GoodsDAO.class
+com\example\mtl\dao\InfoDetailDAO.class

@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db_mtl?characterEncoding=utf-8&serverTimezone=UTC
+    username: root
+    password: root
+
+mybatis:
+   #在mtl-dao⼦⼯程的resources中创建 mappers⽬录
+  mapper-locations: classpath:mappers/*Mapper.xml
+   # 在mtl-bean⼦⼯程创建com.example.mtl.beans 包
+  type-aliases-package: com.example.mtl.beans
+
